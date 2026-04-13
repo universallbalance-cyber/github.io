@@ -12,5 +12,17 @@
         "30:4A:B7:1C:19:DF:3D:F2:D0:7B:1D:37:A4:DB:CB:B4:F8:05:D8:4E:2C:51:72:8A:CA:F4:3F:10:F7:33:4C:C3"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.littlegraphicdesigner.app",
+      "sha256_cert_fingerprints": [
+        "31:82:F0:96:CD:6B:27:AA:05:1A:86:0D:CE:88:47:B0:2A:0C:B0:DE:19:70:A3:09:AA:2B:E3:09:54:77:27:0C"
+      ]
+    }
   }
 ]
